@@ -1,7 +1,7 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from '@next/font/google'
-import styles from '@/styles/Home.module.css'
+// import Head from 'next/head'
+// import Image from 'next/image'
+// import { Inter } from '@next/font/google'
+// import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -24,13 +24,13 @@ export default function Home() {
 
         <div className={styles.center}>
           <h1 className={inter.className}>
-            Senior Project 2023 | Lab Informatika
+            Senior Project 2024 | Labdas 1
           </h1>
         </div>
 
         <div>
           <h5 className={inter.className}>
-            [Nama] | [NIU]
+            [RASYADWA ARSYA IRANTYANTO] | [534714]
           </h5>
         </div>
       </main>
